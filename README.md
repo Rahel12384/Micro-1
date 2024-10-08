@@ -86,7 +86,7 @@ delay(3000);
  این برنامه به نحوی کار می کند که LED متصل به پین 13 را هر 3 ثانیه یکبار روشن و خاموش میکند(طبق عدد  delay که ما تعریف کردیم)
 
  
-  ## شماتیک مدار:
-  [توضیح تصویر]!(https://github.com/Rahel12384/microprocessor-1/blob/main/1.jpg?raw=true)
+## شماتیک مدار
+![توضیح تصویر](https://github.com/vahidseyyedi/microProcessor/blob/main/01/Presentation1.jpg)
  
   
